@@ -13,8 +13,6 @@ template: post
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
 
-![Block Image](/images/art.svg)
-
 Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
 
 Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus.

@@ -3,9 +3,9 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
+    title: Servizi Magenta
+    subtitle: '### Tutti i servizi offerti dal territorio di Magenta in un unico sito'
+    image: images/home.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
